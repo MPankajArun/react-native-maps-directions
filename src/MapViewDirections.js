@@ -53,7 +53,7 @@ class MapViewDirections extends Component {
 			o = 1 & i ? ~(i >> 1) : i >> 1, l += n, r += o, d.push([l / c, r / c]);
 		}
 
-		return d = d.map(function(t) {
+		return d = d.map(function (t) {
 			return {
 				latitude: t[0],
 				longitude: t[1],

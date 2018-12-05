@@ -7,12 +7,7 @@
     "lint": "eslint .",
     "lint:watch": "esw --watch"
   },
-  "author": {
-    "name": "Bramus!",
-    "email": "bramus@bram.us",
-    "url": "https://www.bram.us/"
-  },
-  "repository": "https://github.com/bramus/react-native-maps-directions",
+  "repository": "https://github.com/git-palace/react-native-maps-directions",
   "keywords": [
     "react-native",
     "react-native-component",
@@ -23,10 +18,6 @@
     "android"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bramus/react-native-maps-directions/issues"
-  },
-  "homepage": "https://github.com/bramus/react-native-maps-directions",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
